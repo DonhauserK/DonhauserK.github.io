@@ -1,8 +1,7 @@
 # Welcome
-My name is Konstantin Donhauser and I am a first year PhD student at the ETH Zurich AI center suppervised by Fanny Yang and co-supervised by Afonso Bandeira. 
-I have a Masters and Bachelors degree in Electrical Engineering and a Bachelors degree in Mathematics all from the ETH.<br/>
+My name is Konstantin Donhauser and I am a first year PhD student at the ETH Zurich AI center supervised by Fanny Yang and co-supervised by Afonso Bandeira. I have a Masters and Bachelors degree in Electrical Engineering and a Bachelors degree in Mathematics all from the ETH Zurich.
 
-My research focus can be broadly summarized as anything related to the **theoretical aspects of machine learning**. In particular, I have recently worked on topics related to **high dimensional statistics**,**interpolation theory** and **adversarial robustness**. 
+My research focus can broadly be summarized as anything related to the **theoretical aspects of machine learning**. In particular, I have recently worked on topics related to **high dimensional statistics**, **interpolation theory** and **adversarial robustness**.
 
 ## Preprints
 Interpolation can hurt robust generalization even when there is no noise\
