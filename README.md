@@ -15,4 +15,4 @@ ICML-AdvML workshop [[paper](https://openreview.net/forum?id=ujQKWaxFkrL), [post
 How rotational invariance of common kernels prevents generalization in high dimensions\
 *Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
 Accepted to *Proceedings of the 38th International Conference on Machine Learning, PMLR 139:2804-2814, 2021*\
-[[arxiv](https://arxiv.org/abs/2104.04244),[proceedings](http://proceedings.mlr.press/v139/donhauser21a.html),[poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf)]
+[[arxiv](https://arxiv.org/abs/2104.04244), [proceedings](http://proceedings.mlr.press/v139/donhauser21a.html), [poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf)]
