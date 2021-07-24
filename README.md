@@ -8,4 +8,5 @@ My research focus can be broadly summarized as anything related to the **theoret
 # Publications
 ## 2021
 [How rotational invariance of common kernels prevents generalization in high dimensions](http://proceedings.mlr.press/v139/donhauser21a.html)\
-*Konstantin Donhauser, Mingqi Wu, Fanny Yang Proceedings of the 38th International Conference on Machine Learning, PMLR 139:2804-2814, 2021*
+*Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
+Accepted to *Proceedings of the 38th International Conference on Machine Learning, PMLR 139:2804-2814, 2021*
