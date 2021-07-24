@@ -8,7 +8,7 @@ My research focus can be broadly summarized as anything related to the **theoret
 Interpolation can hurt robust generalization even when there is no noise
 *Konstantin Donhauser\*, Alexandru Tifrea\*, Michael Aerni, Reinhard Heckel, Fanny Yang*\
 Will appear soon on Arxiv\
-ICML-AdvML Workshop: [paper](https://openreview.net/forum?id=ujQKWaxFkrL)], ICML-Oppo Workshop: [paper](https://donhauserk.github.io/OPPO_camera_ready.pdf)
+ICML-AdvML Workshop: [paper](https://openreview.net/forum?id=ujQKWaxFkrL), ICML-Oppo Workshop: [paper](https://donhauserk.github.io/OPPO_camera_ready.pdf)
 
 
 
