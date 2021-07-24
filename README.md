@@ -11,6 +11,6 @@ Will appear soon on Arxiv
 
 
 ## Publications
-[How rotational invariance of common kernels prevents generalization in high dimensions](http://proceedings.mlr.press/v139/donhauser21a.html)\
+[How rotational invariance of common kernels prevents generalization in high dimensions](http://proceedings.mlr.press/v139/donhauser21a.html) [Poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf) \
 *Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
 Accepted to *Proceedings of the 38th International Conference on Machine Learning, PMLR 139:2804-2814, 2021*
