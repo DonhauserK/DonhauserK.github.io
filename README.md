@@ -5,7 +5,7 @@ I have a Masters and Bachelors degree in Electrical Engineering and a Bachelors 
 My research focus can be broadly summarized as anything related to the **theoretical aspects of machine learning**. In particular, I have recently worked on topics related to **high dimensional statistics**,**interpolation theory** and **adversarial robustness**. 
 
 ## Pre-prints
-Interpolation can hurt robust generalization even when there is no noise\
+Interpolation can hurt robust generalization even when there is no noise [Workshop 1](\
 *Konstantin Donhauser\*, Alexandru Tifrea\*, Michael Aerni, Reinhard Heckel, Fanny Yang*\
 Will appear soon on Arxiv
 
