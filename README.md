@@ -15,5 +15,5 @@ Overparameterization OPPO workshop (regression part) at ICML 2021*\
 ## Publications
 How rotational invariance of common kernels prevents generalization in high dimensions\
 *Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
- *Presented at International Conference on Machine Learning, ICML 2021*
+ *Presented at International Conference on Machine Learning, ICML 2021* \
  [[arxiv](https://arxiv.org/abs/2104.04244), [proceedings](http://proceedings.mlr.press/v139/donhauser21a.html), [poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf), [video](https://recorder-v3.slideslive.com/?share=38616&s=3ab79cd4-cabf-4e5d-846e-52a2a402061b)]
