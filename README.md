@@ -4,7 +4,10 @@ My name is Konstantin Donhauser and I am a first year PhD student at the ETH Zur
 My research focus can broadly be summarized as anything related to the **theoretical aspects of machine learning**. In particular, I have recently worked on topics related to **high dimensional statistics**, **interpolation theory** and **adversarial robustness**.
 
 ## Preprints
-There will be soon some new preprints. 
+**Tight bounds for minimum l1-norm interpolation of noisy data**
+*Wang Guillaume\*, Konstantin Donhauser*, Fanny Yang*\
+[[preprint](https://arxiv.org/abs/2111.05987)]
+
 
 ## Publications
 
@@ -20,3 +23,9 @@ Overparameterization OPPO workshop (regression part) at ICML 2021*\
 *Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
  *Presented at International Conference on Machine Learning, ICML 2021* \
  [[arxiv](https://arxiv.org/abs/2104.04244), [proceedings](http://proceedings.mlr.press/v139/donhauser21a.html), [poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf), [video](https://recorder-v3.slideslive.com/?share=38616&s=3ab79cd4-cabf-4e5d-846e-52a2a402061b)]
+
+
+## Supervised Students
+- Kai Lion
+- Stefan Stojanovic
+- Michael Aerni
