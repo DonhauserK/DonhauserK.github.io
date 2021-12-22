@@ -4,7 +4,7 @@ My name is Konstantin Donhauser and I am a first year PhD student at the ETH Zur
 My research focus can broadly be summarized as anything related to the **theoretical aspects of machine learning**. In particular, I have recently worked on topics related to **high dimensional statistics**, **interpolation theory** and **adversarial robustness**.
 
 ## Preprints
-**Tight bounds for minimum l1-norm interpolation of noisy data**
+**Tight bounds for minimum l1-norm interpolation of noisy data**\
 *Wang Guillaume\*, Konstantin Donhauser*, Fanny Yang*\
 [[preprint](https://arxiv.org/abs/2111.05987)]
 
