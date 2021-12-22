@@ -5,14 +5,14 @@ My research focus can broadly be summarized as anything related to the **theoret
 
 ## Preprints
 **Tight bounds for minimum l1-norm interpolation of noisy data**\
-*Wang Guillaume\*, Konstantin Donhauser*, Fanny Yang*\
+*Wang Guillaume\*, **Konstantin Donhauser**\*, Fanny Yang* \
 [[preprint](https://arxiv.org/abs/2111.05987)]
 
 
 ## Publications
 
 **Interpolation can hurt robust generalization even when there is no noise**\
-*Konstantin Donhauser\*, Alexandru Tifrea\*, Michael Aerni, Reinhard Heckel, Fanny Yang*\
+***Konstantin Donhauser**\*, Alexandru Tifrea\*, Michael Aerni, Reinhard Heckel, Fanny Yang*\
 *Will be presented at Neurips 2021*\
 *Presented at the Adversarial machine learning AML workshop (classification part) and
 Overparameterization OPPO workshop (regression part) at ICML 2021*\
@@ -20,7 +20,7 @@ Overparameterization OPPO workshop (regression part) at ICML 2021*\
 
 
 **How rotational invariance of common kernels prevents generalization in high dimensions**\
-*Konstantin Donhauser, Mingqi Wu, Fanny Yang*\
+***Konstantin Donhauser**, Mingqi Wu, Fanny Yang*\
  *Presented at International Conference on Machine Learning, ICML 2021* \
  [[arxiv](https://arxiv.org/abs/2104.04244), [proceedings](http://proceedings.mlr.press/v139/donhauser21a.html), [poster](https://donhauserk.github.io/Kernel_paper_21_poster.pdf), [video](https://recorder-v3.slideslive.com/?share=38616&s=3ab79cd4-cabf-4e5d-846e-52a2a402061b)]
 
